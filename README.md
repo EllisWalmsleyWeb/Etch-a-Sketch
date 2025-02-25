@@ -10,7 +10,7 @@ A simple Etch-a-Sketch web application built with HTML, CSS, and JavaScript. Thi
 - Simple and responsive design.
 
 ## Live Demo
-Check out the live demo: [https://elliswalmsleyweb.github.io/Etch-a-Sketch/]
+Check out the live demo: https://elliswalmsleyweb.github.io/Etch-a-Sketch/
 
 ## Installation
 To run this project locally:
