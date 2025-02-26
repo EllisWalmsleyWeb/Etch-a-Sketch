@@ -1,5 +1,8 @@
 # Etch-a-Sketch
 
+![ayKG4lU](https://github.com/user-attachments/assets/994a6e10-51b3-4c48-9d30-c186b6a48c9f)
+
+
 A simple Etch-a-Sketch web application built with HTML, CSS, and JavaScript. This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum and serves as a practice in DOM manipulation and event handling.
 
 ## Features
